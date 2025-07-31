@@ -1,1 +1,1 @@
-Esta es mi página para generar un cuadrado! Aún en prueba
+Esta es mi página principal! Aún en prueba
